@@ -1,1 +1,310 @@
-site_name: My Docs
+# 网站名称
+site_name: 黎黎-Space
+# 网站描述
+site_description: Test
+# 网站作者
+site_author: 黎黎
+# 版权信息
+copyright: 不负如来不负卿 <a href="#__consent">| 更改 Cookie Settings</a>
+# 存储库
+repo_url: https://github.com/Palpitation-github/mkdocs
+# 存储库名字
+repo_name: Palpitation-github/mkdocs
+# 编辑地址
+edit_uri: edit/main/docs/
+# 主题配置
+theme:
+  # 主题名称
+  name: material
+  # 扩展主题
+  custom_dir: overrides
+  # 语言
+  language: zh
+  font:
+    # 文字字体
+    text: Zen Maru Gothic
+    # 代码字体
+    code: Fira Code
+  # 网站标题图标
+  favicon: assets/images/favicon.png
+  icon:
+    # 网站图标
+    logo: fontawesome/solid/terminal
+    # 页脚的上一页
+    previous: fontawesome/solid/rotate-left
+    # 页脚的下一页
+    next: fontawesome/solid/rotate-right
+    # 存储库
+    repo: fontawesome/brands/git-alt
+    # 标签
+    # 编辑此页
+    edit: material/pencil
+    # 查看源代码
+    view: material/eye
+    tag:
+      cpp: material/language-cpp
+      ja: material/language-java
+      py: material/language-python
+    # menu:
+    # 更改语言
+    # alternate:
+    # 搜索
+    # search:
+    # 共享搜索
+    # share:
+    # 重置搜索,关闭公告
+    # close:
+    # 返回顶部
+    # top:
+    # 劝诫
+    # admonition:
+  # 网站明暗风格
+  palette:
+    # 自动模式
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: 切换为白天模式
+    # 白天模式
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: deep orange
+      toggle:
+        icon: material/brightness-7
+        name: 切换为夜晚模式
+    # 夜晚模式
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: red
+      toggle:
+        icon: material/brightness-4
+        name: 切换为系统偏好
+  # 特性
+  features:
+    # 即时加载
+    - navigation.instant
+    # 预先加载
+    - navigation.instant.prefetch
+    # 进度指示器
+    - navigation.instant.progress
+    # 地址栏锚点跟踪
+    - navigation.tracking
+    # 导航选项卡
+    - navigation.tabs
+    # 返回顶部按钮
+    - navigation.top
+    # 选项卡跟随
+    # - navigation.tabs.sticky
+    # 左侧边栏
+    - navigation.sections
+    # 左侧边栏展开
+    - navigation.expand
+    # 导航修剪,100页以上使用
+    # - navigation.prune
+    # 章节索引页
+    - navigation.indexes
+    # 侧边栏锚点跟随
+    # 页脚
+    - navigation.footer
+    - toc.follow
+    # 目录集成左侧边栏
+    # - toc.integrate
+    # 搜索建议
+    - search.suggest
+    # 搜索突出显示
+    - search.highlight
+    # 搜索共享
+    - search.share
+    # 标题自动隐藏
+    - header.autohide
+    # 关闭通知
+    - announce.dismiss
+    # 链接内容选项卡
+    - content.tabs.link
+    # 代码复制
+    - content.code.copy
+    # 编辑此页面
+    - content.action.edit
+    # 查看源代码
+    - content.action.view
+# 额外配置
+extra:
+  # 主页图标跳转
+  homepage: https://palpitation-github.github.io/mkdocs/
+  # 发电通知
+  generator: false
+  # 社交
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Palpitation-github/
+      name: 黎黎 on Github
+    - icon: fontawesome/brands/bilibili
+      link: https://space.bilibili.com/93584254
+      name: 黎黎 on Bilibili
+    - icon: material/email
+      link: mailto:<783401553@qq.com>
+      name: 黎黎 on Tencent Email
+  # cookie同意
+  consent:
+    title: Cookie consent
+    description: >-
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
+  # 网站分析
+  # analytics:
+  #   # 反馈
+  #   feedback:
+  #     title: Was this page helpful?
+  #     ratings:
+  #       - icon: material/emoticon-happy-outline
+  #         name: This page was helpful
+  #         data: 1
+  #         note: >-
+  #           Thanks for your feedback!
+  #       - icon: material/emoticon-sad-outline
+  #         name: This page could be improved
+  #         data: 0
+  #         note: >-
+  #           Thanks for your feedback! Help us improve this page by
+  #           using our <a href="www.783401553@qq.com" target="_blank" rel="noopener">feedback form</a>.
+  # 标签
+  tags:
+    C++: cpp
+    Java: ja
+    Python: py
+# 额外css
+extra_css:
+  - stylesheets/extra.css
+  # 动效
+  - https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css
+# 额外js
+extra_javascript:
+  - javascripts/extra.js
+  # 数学
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+# 导航页
+nav:
+  - index.md
+  - 🎨 Collections:
+    - collections/index.md
+    - Page 1: collections/page-1.md
+    - Page 2: collections/page-2.md
+  - 🛠️ Tools:
+    - tools/index.md
+    - Page 1: tools/page-1.md
+    - Page 2: tools/page-2.md
+  - 📭 Numbers:
+    - numbers/index.md
+# 插件配置
+plugins:
+  # 隐私
+  # - privacy
+  # 搜索
+  - search:
+      enabled: true
+  # 标签
+  - tags:
+      enabled: true
+      # 标签文件
+      tags_file: tags.md
+  # 更新和创建文档日期
+  - git-revision-date-localized:
+      # 创建文档时间
+      enable_creation_date: true
+      # 日期格式
+      type: date
+  # 文档贡献者
+  - git-committers:
+      # 仓库
+      repository: Palpitation-github/mkdocs
+      # 分支
+      branch: main
+# markdown配置
+markdown_extensions:
+  # 解析特定键值对
+  - meta
+  # 缩写
+  - abbr
+  # 劝诫
+  - admonition
+  # 属性列表
+  - attr_list
+  # HTML中编写Markdown,实现网格
+  - md_in_html
+  # 定义列表
+  - def_list
+  # 脚注
+  - footnotes
+  # 表
+  - tables
+  # 强调
+  - pymdownx.betterem
+  # 插入,标记,波浪号
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  # 按键
+  - pymdownx.keys
+  # 标注可折叠
+  - pymdownx.details
+  # 智能符号
+  - pymdownx.smartsymbols
+  # 嵌入任意内容
+  - pymdownx.snippets
+  # 显示添加删除和更新
+  - pymdownx.critic:
+      mode: view
+  # 数学
+  - pymdownx.arithmatex:
+      generic: true
+  # 任务列表
+  - pymdownx.tasklist:
+      # 复选框样式
+      custom_checkbox: true
+      # 可点击
+      clickable_checkbox: false
+  # 内联代码快
+  - pymdownx.inlinehilite
+  # 代码高亮
+  - pymdownx.highlight:
+      use_pygments: true
+      pygments_lang_class: true
+      # 显示编程语言名称
+      auto_title: true
+      # 显示行号
+      linenums: true
+      # 行号样式
+      linenums_style: pymdownx-inline
+      # 行号锚点链接
+      anchor_linenums: true
+      line_spans: __span
+  # 选项卡片
+  - pymdownx.tabbed:
+      alternate_style: true
+      combine_header_slug: true
+  # 超级围栏
+  - pymdownx.superfences:
+      # mermaid图表
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  # 表情
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  # 目录
+  - toc:
+      # ⚓︎
+      permalink: 🪐
+      # 锚点提示
+      permalink_title: Anchor link to this section for reference
+      title: 📂 目录
+      # 目录深度
+      toc_depth: 3
