@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "my-mkdocs"
+version = "0.1.0"
+description = ""
+authors = ["黎黎 <32128684+Palpitation-github@users.noreply.github.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[[tool.poetry.source]]
+name = "mirrors"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple/"
+priority = "default"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
