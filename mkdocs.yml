@@ -1,5 +1,7 @@
 # 网站名称
 site_name: 黎黎-Space
+# 网站地址,生成sitemap.xml
+site_url: https://palpitation.github.io/mkdocs/
 # 网站描述
 site_description: Test
 # 网站作者
@@ -45,6 +47,15 @@ theme:
       cpp: material/language-cpp
       ja: material/language-java
       py: material/language-python
+      mc: material/gamepad-variant
+      js: material/language-javascript
+      css: material/language-css3
+      go: material/language-go
+      rs: material/language-rust
+      tex: material/pen
+      apk: material/android
+      win: fontawesome/brands/windows
+      web: material/web
     # menu:
     # 更改语言
     # alternate:
@@ -173,14 +184,25 @@ extra:
   #           using our <a href="www.783401553@qq.com" target="_blank" rel="noopener">feedback form</a>.
   # 标签
   tags:
-    C++: cpp
+    C/C++: cpp
     Java: ja
     Python: py
+    Minecraft: mc
+    CSS: css
+    JavaScript: js
+    Go: go
+    Rust: rs
+    Latex: tex
+    Android: apk
+    Windows: win
+    Website: web
 # 额外css
 extra_css:
   - stylesheets/extra.css
   # 动效
   - https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css
+  # 图片灯箱
+  # - stylesheets/glightbox.min.css
 # 额外js
 extra_javascript:
   # - javascripts/extra.js
@@ -190,17 +212,41 @@ extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
   # 测试 mermaid
   - https://cdn.jsdelivr.net/npm/mermaid@10.6.1/dist/mermaid.min.js
+  # 图片灯箱
+  # - javascripts/glightbox.min.js
 # 导航页
 nav:
   - index.md
-  - 🎨 Collections:
+  - 🗂️ Collections:
     - collections/index.md
-    - Page 1: collections/page-1.md
-    - Page 2: collections/page-2.md
+    - 1. 🪟 软件 on Windows: collections/windows.md
+    - 2. 🤖 应用 on Android: collections/android.md
+    - 3. 🔎 网站 on Website: collections/website.md
   - 🛠️ Tools:
     - tools/index.md
     - Page 1: tools/page-1.md
     - Page 2: tools/page-2.md
+  - 💻 0xFFFFF:
+    - 0xfffff/index.md
+    - 🔱 Programming languages:
+      - 0xfffff/languages/index.md
+      - 1. 💿 C/C++: 0xfffff/languages/cp.md
+      - 2. 🛒 Java: 0xfffff/languages/ja.md
+      - 3. 🐍 Python: 0xfffff/languages/py.md
+      - 4. 🦭 Go: 0xfffff/languages/go.md
+      - 5. 🦀 Rust: 0xfffff/languages/rs.md
+      - 6. 🎨 CSS: 0xfffff/languages/cs.md
+      - 7. 📌 JavaScript: 0xfffff/languages/js.md
+    - 🔱 Latex:
+      - 0xfffff/latex/index.md
+      - 1. 📈 PGF Plots: 0xfffff/latex/pgfplots.md
+      - 2. 📉 Tikz Euclide: 0xfffff/latex/tikz_euclide.md
+  - 🕹️ Minecraft:
+    - minecraft/index.md
+    - 1. 🪵材质包 Resource packs: minecraft/resource_packs.md
+    - 2. 📽️光影 Shaderpacks: minecraft/shaderpacks.md
+    - 3. 🎲模组 Mods: minecraft/mods.md
+    - 4. ➕其他 Others: minecraft/others.md
   - 📭 Numbers:
     - numbers/index.md
 # 插件配置
@@ -227,6 +273,29 @@ plugins:
       repository: Palpitation-github/mkdocs
       # 分支
       branch: main
+  # 图片缩放
+  - glightbox:
+      # 触摸导航
+      touchNavigation: true
+      # 末端循环滚动
+      loop: false
+      # 打开时效果
+      effect: fade
+      # 幻灯片效果
+      slide_effect: zoom
+      width: 80%
+      height: auto
+      # 启用或禁用可缩放
+      zoomable: true
+      # 鼠标拖动以转到上或下一张
+      draggable: true
+      # 禁用具有特定自定义类名的图像
+      skip_classes:
+        - custom-skip-class-name
+      # 使用图像的alt作为标题。
+      auto_caption: false
+      # 默认字幕位置
+      caption_position: bottom
 # markdown配置
 markdown_extensions:
   # 解析特定键值对

@@ -142,3 +142,27 @@ stateDiagram-v2
     join_state --> State4
     State4 --> [*]
 ```
+
+### 思维导图
+
+```mermaid
+mindmap
+  root((MindMap)
+    Origins
+      1)Long history(
+      ::icon(fa fa-book)
+      2(Popularisation)
+        a["`British popular
+         psychology author 
+         Tony Buzan`"]
+    3))Research((
+      On effectiveness<br/>and features
+      On Automatic creation
+        Uses
+            Creative techniques
+            Strategic planning
+            Argument mapping
+    Tools(("`**Tools**`"))
+      Pen and paper
+      Mermaid
+```

@@ -22,6 +22,22 @@ def bubble_sort(items):
 
 The `#!python range()` function is used to generate a sequence of numbers.
 
+## GitHub stats
+
 ![Palpitation-github's GitHub stats](https://github-readme-stats.vercel.app/api?username=Palpitation-github&show_icons=true&theme=dracula)
 
+## Top Langs
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Palpitation-github&layout=pie)](https://github.com/Palpitation-github/mkdocs)
+
+## Star History
+
+<a href="https://star-history.com/#Palpitation-github/mkdocs&Timeline">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Palpitation-github/mkdocs&type=Timeline&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Palpitation-github/mkdocs&type=Timeline" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Palpitation-github/mkdocs&type=Timeline" />
+  </picture>
+</a>
+
+
