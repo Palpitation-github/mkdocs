@@ -222,11 +222,11 @@ nav:
     - 1. 🪟 软件 on Windows: collections/windows.md
     - 2. 🤖 应用 on Android: collections/android.md
     - 3. 🔎 网站 on Website: collections/website.md
-  - 🛠️ Tools:
-    - tools/index.md
-    - Page 1: tools/page-1.md
-    - Page 2: tools/page-2.md
-  - 💻 0xFFFFF:
+  - ✒️ Latex:
+    - latex/index.md
+    - 1. 📈 绘图 PGF Plots: latex/pgfplots.md
+    - 2. 📉 绘图 Tikz Euclide: latex/tikz_euclide.md
+  - 💾 0xFFFFF:
     - 0xfffff/index.md
     - 🔱 Programming languages:
       - 0xfffff/languages/index.md
@@ -237,17 +237,17 @@ nav:
       - 5. 🦀 Rust: 0xfffff/languages/rs.md
       - 6. 🎨 CSS: 0xfffff/languages/cs.md
       - 7. 📌 JavaScript: 0xfffff/languages/js.md
-    - 🔱 Latex:
-      - 0xfffff/latex/index.md
-      - 1. 📈 PGF Plots: 0xfffff/latex/pgfplots.md
-      - 2. 📉 Tikz Euclide: 0xfffff/latex/tikz_euclide.md
-  - 🕹️ Minecraft:
+  - 🎮 Minecraft:
     - minecraft/index.md
-    - 1. 🪵材质包 Resource packs: minecraft/resource_packs.md
-    - 2. 📽️光影 Shaderpacks: minecraft/shaderpacks.md
-    - 3. 🎲模组 Mods: minecraft/mods.md
-    - 4. ➕其他 Others: minecraft/others.md
-  - 📭 Numbers:
+    - 1. 🪵 材质包 Resource packs: minecraft/resource_packs.md
+    - 2. 📽️ 光影 Shaderpacks: minecraft/shaderpacks.md
+    - 3. 🎲 模组 Mods: minecraft/mods.md
+    - 4. ➕ 其他 Others: minecraft/others.md
+  - 📬 About:
+    - about/index.md
+    - 1. 🏡 主题 Theme: about/mkdocs.md
+    - 2. 🛹 联系 Contact: about/page-2.md
+  - 🕐 Coming:
     - numbers/index.md
 # 插件配置
 plugins:
