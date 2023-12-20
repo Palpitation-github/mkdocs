@@ -7,6 +7,33 @@ tags:
 
 # 软件-Windows Softwares
 
+## 系统优化
+
+### Office Tool Plus
+
+!!!info "简介"
+      Office Tool Plus 是一款强大且实用的 Office 部署工具。它基于 Office 部署工具（ODT）制作，可以很方便的部署 Office，其内置迅雷云加速开放平台和 Downloader 引擎可帮助您更快地下载 Office。
+
+<figure markdown>
+  ![Office Tool Plus](https://otp.landian.vip/zh-cn/images/slider-1.webp){ loading=lazy height="100px" width="400px" }
+  <figcaption>Office Tool Plus 图片来源：蓝点网</figcaption>
+</figure>
+
+[Download :fontawesome-solid-download:{ .heart }](https://otp.landian.vip/redirect/download.php?type=runtime&arch=x64&site=sdumirror)
+
+### HEU KMS Activator
+
+!!!info "简介"
+      HEU KMS Activator 是一款易于使用的 Windows 和 Office 激活程序。它将自动检测您的 Windows 版本，并为您选择最佳激活方法。它还有许多有用的工具，例如更改 Windows 版本、备份和恢复 Windows、更改 MS Office 版本、手动密钥设置等。
+
+<figure markdown>
+  ![HEU KMS Activator](https://www.unyoo.com/wp-content/uploads/2021/10/46abdab7383a4f0.jpg){ loading=lazy height="100px" width="400px" }
+  <figcaption>HEU KMS Activator 图片来源：联合优网</figcaption>
+</figure>
+
+[Download :fontawesome-solid-download:{ .heart }](https://github.com/zbezj/HEU_KMS_Activator/releases)
+
+
 ## 编程开发
 
 ### Visual Studio Code
@@ -16,7 +43,7 @@ tags:
 
 <figure markdown>
   ![Visual Studio Code](https://user-images.githubusercontent.com/35271042/118224532-3842c400-b438-11eb-923d-a5f66fa6785a.png){ loading=lazy height="100px" width="400px" data-title="这是标题" data-description="这是描述" data-caption-position="right"}
-  <figcaption>Visual Studio Code 截图来源：Github</figcaption>
+  <figcaption>Visual Studio Code 图片来源：Github</figcaption>
 </figure>
 
 [Download :fontawesome-solid-download:{ .heart }](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64)
@@ -44,7 +71,7 @@ tags:
 
 <figure markdown>
   ![MarkText](https://github.com/marktext/marktext/blob/develop/docs/marktext.png?raw=true){ loading=lazy height="100px" width="400px" }
-  <figcaption>MarkText 截图来源：Github</figcaption>
+  <figcaption>MarkText 图片来源：Github</figcaption>
 </figure>
 
 [Download :fontawesome-solid-download:{ .heart }](https://github.com/marktext/marktext/releases/latest/download/marktext-setup.exe)
@@ -56,7 +83,7 @@ tags:
 
 <figure markdown>
   ![LocalSend](https://camo.githubusercontent.com/16c897c2e10c0728e1eedc4e353fa382e720c818b3f871b912d23b48321b9dad/68747470733a2f2f6c6f63616c73656e642e6f72672f696d672f73637265656e73686f742d70632e77656270){ loading=lazy height="100px" width="400px" }
-  <figcaption>LocalSend 截图来源：Github</figcaption>
+  <figcaption>LocalSend 图片来源：Github</figcaption>
 </figure>
 
 [Download :fontawesome-solid-download:{ .heart }](https://github.com/localsend/localsend/releases)
