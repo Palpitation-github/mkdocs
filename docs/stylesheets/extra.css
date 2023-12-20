@@ -29,3 +29,49 @@
   .heart {
     animation: heart 1000ms infinite;
   }
+
+/* 图标闪烁的动画 */
+
+@keyframes blink {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+.blink {
+  animation: blink 1s infinite;
+}
+
+
+/* 点赞图标的动画 */
+.fa-thumbs-up {
+  animation: thumbs-up 0.2s infinite alternate;
+}
+
+@keyframes thumbs-up {
+  from {
+    transform: translateY(0);
+  }
+  to {
+    transform: translateY(-10px);
+  }
+}
+
+/* 踩下图标的动画 */
+.fa-thumbs-down {
+  animation: thumbs-down 0.2s infinite alternate;
+}
+
+@keyframes thumbs-down {
+  from {
+    transform: translateY(0);
+  }
+  to {
+    transform: translateY(10px);
+  }
+}
