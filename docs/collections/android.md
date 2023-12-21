@@ -28,8 +28,8 @@ tags:
       1DM+ 是一款 Android 平台专业的下载管理器应用（支持通过 Torrent 下载），它有非常强大的资源嗅探和多线程下载能力。它最高支持同时下载 5 个任务同时下载以及 32 个并发线程，内置的 Google 浏览器支持包括广告屏蔽在内的各种功能。
 
 <figure markdown>
-  ![1DM+](http://www.dayanzai.me/image/page/2020-03-24_221855.jpg){ loading=lazy height=500px" width="400px" }
-  <figcaption>1DM+ 图片来源：大眼仔旭</figcaption>
+  ![1DM+](https://www.xitmi.com/wp-content/uploads/2023/08/20230821.png){ loading=lazy height=500px" width="300px" }
+  <figcaption>1DM+ 图片来源：系统迷</figcaption>
 </figure>
 
 [Download :fontawesome-solid-download:{ .heart }](https://www.yxssp.com/download.php?author=%E7%88%B1%E7%9C%8B%E8%A7%86%E9%A2%91&btitle=%E5%BC%82%E6%98%9F%E8%BD%AF%E4%BB%B6%E7%A9%BA%E9%97%B4&id=23740)
