@@ -15,7 +15,7 @@ tags:
       Fido 是一个 PowerShell 脚本，主要设计用于 Rufus，但也能以独立方式使用，其目的是自动访问官方 Microsoft Windows 零售 ISO 的下载链接，并提供对可启动 UEFI Shell 映像的便捷访问。
 
 <figure markdown>
-  ![Fido](https://img.ithome.com/newsuploadfiles/2022/8/91328e8a-4916-4f9e-9690-e6c3e2cba65c.png){ loading=lazy height="200px" width="350px" }
+  ![Fido](https://maxiaobang.com/wp-content/uploads/2021/08/20210809142548238.jpg?x-oss-process=image/format,webp){ loading=lazy height="200px" width="400px" }
   <figcaption>Fido 界面</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ tags:
       VisualCppRedist AIO 一款用于最新 Microsoft Visual C++ Redistributable 运行时的 AIO 重新打包工具。
 
 <figure markdown>
-  ![VisualCppRedist AIO](http://www.dayanzai.me/image/page/2021-09-14_114849.png){ loading=lazy height="350px" width="350px" }
+  ![VisualCppRedist AIO](https://www.osssr.com/wp-content/uploads/2022/01/VisualCppRedist_1.png?x33195){ loading=lazy height="350px" width="350px" }
   <figcaption>VisualCppRedist AIO 界面</figcaption>
 </figure>
 
@@ -126,6 +126,11 @@ tags:
 !!!info "简介"
       VirtualBox 是一款开源且功能强大的 x86 和 AMD64/Intel64 虚拟化软件，支持运行在 Windows、Linux、macOS 等主机上。
 
+<figure markdown>
+  ![VirtualBox](https://img.thosefree.com/wp-content/uploads/2022/10/virtualbox-screenshot.jpg){ loading=lazy height="300px" width="400px" }
+  <figcaption>VirtualBox 界面</figcaption>
+</figure>
+
 [Download :fontawesome-solid-download:{ .heart }](https://download.virtualbox.org/virtualbox/7.0.12/VirtualBox-7.0.12-159484-Win.exe)
 
 ### Oh My Posh
@@ -159,6 +164,11 @@ tags:
 
 !!!info "简介"
       TeXstudio 是一款开源、跨平台的 LaTeX 编辑软件, 支持。它提供了交互式拼写检查、代码折叠、语法高亮等特性，但需自行安装 LaTeX 编译软件。
+
+<figure markdown>
+  ![TexStudio](https://texstudio-org.github.io/_images/txs_view.png){ loading=lazy height="200px" width="400px" }
+  <figcaption>TexStudio 界面</figcaption>
+</figure>
 
 [Download :fontawesome-solid-download:{ .heart }](https://sourceforge.net/projects/texstudio/files/latest/download)
 
