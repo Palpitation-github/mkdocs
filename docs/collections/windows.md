@@ -39,7 +39,7 @@ tags:
       Office Tool Plus 是一款强大且实用的 Office 部署工具。它基于 Office 部署工具（ODT）制作，可以很方便的部署 Office，其内置迅雷云加速开放平台和 Downloader 引擎可帮助您更快地下载 Office。
 
 <figure markdown>
-  ![Office Tool Plus](https://img.appnee.com/appnee.com/2021/Office-Tool-Plus-1.webp){ loading=lazy height="250px" width="500px" }
+  ![Office Tool Plus](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/Office_Tools_Plus.jpg?raw=true){ loading=lazy height="320px" width="473px" }
   <figcaption>Office Tool Plus 界面</figcaption>
 </figure>
 
@@ -51,7 +51,7 @@ tags:
       HEU KMS Activator 是一款易于使用的 Windows 和 Office 激活程序。它将自动检测您的 Windows 版本，并为您选择最佳激活方法。它还有许多有用的工具，例如更改 Windows 版本、备份和恢复 Windows、更改 MS Office 版本、手动密钥设置等。
 
 <figure markdown>
-  ![HEU KMS Activator](https://www.unyoo.com/wp-content/uploads/2021/10/46abdab7383a4f0.jpg){ loading=lazy height="300px" width="400px" }
+  ![HEU KMS Activator](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/HEU_KMS_Activator.png?raw=true){ loading=lazy height="320px" width="473px" }
   <figcaption>HEU KMS Activator 界面</figcaption>
 </figure>
 
@@ -63,7 +63,7 @@ tags:
       v2rayN 是一款 Windows 系统下的代理软件客户端，功能强大且支持多种代理协议，如VMess、VLESS、Trojan、Socks、Shadowsocks 等代理协议。
 
 <figure markdown>
-  ![v2rayN](https://v2rayn.org/wp-content/uploads/2022/06/1656267590-v2rayN-interface.jpg.webp){ loading=lazy height="300px" width="400px" }
+  ![v2rayN](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/v2rayN.jpg?raw=true){ loading=lazy height="320px" width="473px" }
   <figcaption>v2rayN 界面</figcaption>
 </figure>
 
@@ -75,7 +75,7 @@ tags:
       Bulk Crap Uninstaller 是一款优秀的程序卸载程序。它可以清理残余目录、检测孤立的应用程序、根据预制列表运行卸载程序等等
 
 <figure markdown>
-  ![Bulk Crap Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller/raw/gh-pages/assets/1.png){ loading=lazy height="300px" width="400px" }
+  ![Bulk Crap Uninstaller](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/Bulk_Crap_Uninstaller.jpg?raw=true){ loading=lazy height="320px" width="473px" }
   <figcaption>Bulk Crap Uninstaller 界面</figcaption>
 </figure>
 
@@ -100,7 +100,7 @@ tags:
       ContextMenuManager 是一款 Windows 右键菜单管理软件，可启用或禁用文件、文件夹、新建、发送到、打开方式、自定义文件格式等右键菜单项目。
 
 <figure markdown>
-  ![ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager/raw/master/Screenshot/Screenshot.png){ loading=lazy height="300px" width="400px" }
+  ![ContextMenuManager](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/ContextMenuManager.jpg?raw=true){ loading=lazy height="320px" width="473px" }
   <figcaption>ContextMenuManager 界面</figcaption>
 </figure>
 
@@ -115,7 +115,7 @@ tags:
       Visual Studio Code 是一款轻量级但功能强大的源代码编辑器，支持 Windows、macOS 和 Linux 平台。它内置了对 JavaScript、TypeScript 和 Node.js 的支持，并为其他语言和运行时（C++、Java、Python、Go等）提供了丰富的扩展生态系统。
 
 <figure markdown>
-  ![Visual Studio Code](https://user-images.githubusercontent.com/35271042/118224532-3842c400-b438-11eb-923d-a5f66fa6785a.png){ loading=lazy height="300px" width="400px" data-title="这是标题" data-description="这是描述" data-caption-position="right"}
+  ![Visual Studio Code](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/Visual_Studio_Code.jpg?raw=true){ loading=lazy height="320px" width="473px" }
   <figcaption>Visual Studio Code 界面</figcaption>
 </figure>
 
@@ -127,7 +127,7 @@ tags:
       VirtualBox 是一款开源且功能强大的 x86 和 AMD64/Intel64 虚拟化软件，支持运行在 Windows、Linux、macOS 等主机上。
 
 <figure markdown>
-  ![VirtualBox](https://img.thosefree.com/wp-content/uploads/2022/10/virtualbox-screenshot.jpg){ loading=lazy height="300px" width="400px" }
+  ![VirtualBox](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/VirtualBox.jpg?raw=true){ loading=lazy height="320px" width="473px" }
   <figcaption>VirtualBox 界面</figcaption>
 </figure>
 
@@ -154,7 +154,7 @@ tags:
       Bandizip 是一款强大的多功能压缩文件管理工具，可提供很快的解压缩速度，还有配合杀毒软件实现扫描压缩包等的各种实用功能。
 
 <figure markdown>
-  ![Bandizip](https://cn.bandisoft.com/bandizip/screenshots/imgs.cn/01.png){ loading=lazy height="300px" width="400px" }
+  ![Bandizip](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/Bandizip.jpg?raw=true){ loading=lazy height="320px" width="473px" }
   <figcaption>Bandizip 界面</figcaption>
 </figure>
 
@@ -166,7 +166,7 @@ tags:
       TeXstudio 是一款开源、跨平台的 LaTeX 编辑软件, 支持。它提供了交互式拼写检查、代码折叠、语法高亮等特性，但需自行安装 LaTeX 编译软件。
 
 <figure markdown>
-  ![TexStudio](https://texstudio-org.github.io/_images/txs_view.png){ loading=lazy height="200px" width="400px" }
+  ![TexStudio](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/TexStudio.jpg?raw=true){ loading=lazy height="320px" width="473px" }
   <figcaption>TexStudio 界面</figcaption>
 </figure>
 
@@ -190,7 +190,7 @@ tags:
       LocalSend 是一款开源、跨平台的能将文件共享到附近设备的软件, 目前支持 Windows、macOS、Linux、Android、iOS 平台。
 
 <figure markdown>
-  ![LocalSend](https://camo.githubusercontent.com/16c897c2e10c0728e1eedc4e353fa382e720c818b3f871b912d23b48321b9dad/68747470733a2f2f6c6f63616c73656e642e6f72672f696d672f73637265656e73686f742d70632e77656270){ loading=lazy height="300px" width="400px" }
+  ![LocalSend](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/LocalSend.jpg?raw=true){ loading=lazy height="320px" width="473px" }
   <figcaption>LocalSend 界面</figcaption>
 </figure>
 
@@ -202,7 +202,7 @@ tags:
       Calibre 是一个电子书管理器。它可以查看、转换、编辑和编目电子书 在所有主要的电子书格式中。它还可以与电子书阅读器对话 设备。它可以上网并获取书籍的元数据。 它可以下载报纸并将其转换为电子书，以方便 读数。它是跨平台的，可在 Linux、Windows 和 macOS 上运行。
 
 <figure markdown>
-  ![Calibre](https://lh3.googleusercontent.com/rXiQJLi7-4RUi9MPoBBBHvNkI9GmuEnhhNlsdkDLavAhH0K5R_vINazBmxOR_kc1TAT0BGEG1iLlcBU2yLV2X9Cr7BZ0tF140P2AZZ_nuRyAmtqffTQdxlVrppjW0KDVI-D-7yKG=d){ loading=lazy height="300px" width=400px" }
+  ![Calibre](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/Calibre.jpg?raw=true){ loading=lazy height="320px" width=473px" }
   <figcaption>Calibre 界面</figcaption>
 </figure>
 
@@ -238,7 +238,7 @@ tags:
       Free Download Manager 是一款功能强大的现代下载管理器，它适用于 Windows、macOS、Android 和 Linux 平台，允许用户调整流量使用情况、组织下载、控制种子的文件优先级、高效下载大文件和恢复中断的下载。
 
 <figure markdown>
-  ![Free Download Manager](https://www.freedownloadmanager.org/public/img/v2/src_win.svg){ loading=lazy height="300px" width=400px" }
+  ![Free Download Manager](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/Free_Download_Manager.jpg?raw=true){ loading=lazy height="320px" width=473px" }
   <figcaption>Free Download Manager 界面</figcaption>
 </figure>
 
@@ -250,7 +250,7 @@ tags:
       Everything 是一款基于名称快速定位文件和文件夹的软件 它有干净简洁的用户界面和快速文件索引和搜索能力。
 
 <figure markdown>
-  ![Everything](https://www.voidtools.com/zh-cn/support/everything/Everything.Search.Window.png){ loading=lazy height="350px" width=350px" }
+  ![Everything](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/Everything.jpg?raw=true){ loading=lazy height="320px" width=473px" }
   <figcaption>Everything 界面</figcaption>
 </figure>
 
@@ -300,7 +300,7 @@ tags:
       Dopamine 是一款优雅的音频播放器，它试图让组织和听音乐尽可能简单和漂亮。
 
 <figure markdown>
-  ![Dopamine](https://github.com/digimezzo/dopamine/raw/master/Dopamine.screenshot.png){ loading=lazy height="300px" width="400px" }
+  ![Dopamine](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/Dopamine.jpg?raw=true){ loading=lazy height="320px" width="473px" }
   <figcaption>Dopamine 界面</figcaption>
 </figure>
 
@@ -330,15 +330,15 @@ tags:
 
 [Download :fontawesome-solid-download:{ .heart }](https://github.com/TranslucentTB/TranslucentTB/releases)
 
-### No!! MeiryoUI
+### No!!MeiryoUI
 
 
 !!!info "简介"
-      No!! MeiryoUI 重新启用了自定义 Windows 用户界面字体的功能，该功能自 Windows 8.1 以来已被删除。
+      No!!MeiryoUI 重新启用了自定义 Windows 用户界面字体的功能，该功能自 Windows 8.1 以来已被删除。
 
 <figure markdown>
-  ![No!! MeiryoUI](https://dl.zhutix.net/2020/12/9034567.jpg){ loading=lazy height="300px" width="400px" }
-  <figcaption>No!! MeiryoUI 界面</figcaption>
+  ![No!!MeiryoUI](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/No_MeiryoUI.jpg?raw=true){ loading=lazy height="320px" width="473px" }
+  <figcaption>No!!MeiryoUI 界面</figcaption>
 </figure>
 
 [Download :fontawesome-solid-download:{ .heart }](https://github.com/Tatsu-syo/noMeiryoUI/releases)

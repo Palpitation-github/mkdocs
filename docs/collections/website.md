@@ -22,6 +22,19 @@ tags:
 
 [Jump to :fontawesome-solid-leaf:{ .heart }](https://zh.annas-archive.org/)
 
+### arXiv
+
+!!!note "简介"
+      arXiv 是一项免费的分发服务，也是近 240 万用户的开放访问档案，包括物理学、数学、计算机科学、经济学等领域的学术文章。
+
+<figure markdown>
+  ![arXiv](https://github.com/Palpitation-github/images/blob/main/Collections/Website/arXiv.png?raw=true){ loading=lazy height="320px" width="473px" }
+  <figcaption>arXiv</figcaption>
+</figure>
+
+[Jump to :fontawesome-solid-leaf:{ .heart }](https://arxiv.org/)
+
+
 ### 小纸条
 
 !!!note "简介"
@@ -169,3 +182,4 @@ tags:
 </figure>
 
 [Jump to :fontawesome-solid-leaf:{ .heart }](https://scrape.center/)
+
