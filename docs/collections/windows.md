@@ -16,7 +16,7 @@ tags:
 
 <figure markdown>
   ![Fido](https://maxiaobang.com/wp-content/uploads/2021/08/20210809142548238.jpg?x-oss-process=image/format,webp){ loading=lazy height="200px" width="400px" }
-  <figcaption>Fido 界面</figcaption>
+  <figcaption>Fido</figcaption>
 </figure>
 
 [Download :fontawesome-solid-download:{ .heart }](https://github.com/pbatard/Fido/releases)
@@ -28,7 +28,7 @@ tags:
 
 <figure markdown>
   ![Rufus](https://rufus.ie/pics/screenshot1_zh_CN.png){ loading=lazy height=500px" width="250px" }
-  <figcaption>Refus 界面</figcaption>
+  <figcaption>Refus</figcaption>
 </figure>
 
 [Download :fontawesome-solid-download:{ .heart }](https://github.com/pbatard/rufus/releases)
@@ -40,7 +40,7 @@ tags:
 
 <figure markdown>
   ![Office Tool Plus](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/Office_Tools_Plus.jpg?raw=true){ loading=lazy height="320px" width="473px" }
-  <figcaption>Office Tool Plus 界面</figcaption>
+  <figcaption>Office Tool Plus</figcaption>
 </figure>
 
 [Download :fontawesome-solid-download:{ .heart }](https://otp.landian.vip/redirect/download.php?type=runtime&arch=x64&site=sdumirror)
@@ -52,7 +52,7 @@ tags:
 
 <figure markdown>
   ![HEU KMS Activator](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/HEU_KMS_Activator.png?raw=true){ loading=lazy height="320px" width="473px" }
-  <figcaption>HEU KMS Activator 界面</figcaption>
+  <figcaption>HEU KMS Activator</figcaption>
 </figure>
 
 [Download :fontawesome-solid-download:{ .heart }](https://github.com/zbezj/HEU_KMS_Activator/releases)
@@ -64,7 +64,7 @@ tags:
 
 <figure markdown>
   ![v2rayN](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/v2rayN.jpg?raw=true){ loading=lazy height="320px" width="473px" }
-  <figcaption>v2rayN 界面</figcaption>
+  <figcaption>v2rayN</figcaption>
 </figure>
 
 [Download :fontawesome-solid-download:{ .heart }](https://github.com/2dust/v2rayN/releases)
@@ -76,7 +76,7 @@ tags:
 
 <figure markdown>
   ![Bulk Crap Uninstaller](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/Bulk_Crap_Uninstaller.jpg?raw=true){ loading=lazy height="320px" width="473px" }
-  <figcaption>Bulk Crap Uninstaller 界面</figcaption>
+  <figcaption>Bulk Crap Uninstaller</figcaption>
 </figure>
 
 [Download :fontawesome-solid-download:{ .heart }](https://github.com/Klocman/Bulk-Crap-Uninstaller/releases)
@@ -88,7 +88,7 @@ tags:
 
 <figure markdown>
   ![VisualCppRedist AIO](https://www.osssr.com/wp-content/uploads/2022/01/VisualCppRedist_1.png?x33195){ loading=lazy height="350px" width="350px" }
-  <figcaption>VisualCppRedist AIO 界面</figcaption>
+  <figcaption>VisualCppRedist AIO</figcaption>
 </figure>
 
 [Download :fontawesome-solid-download:{ .heart }](https://github.com/abbodi1406/vcredist/releases)
@@ -101,10 +101,22 @@ tags:
 
 <figure markdown>
   ![ContextMenuManager](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/ContextMenuManager.jpg?raw=true){ loading=lazy height="320px" width="473px" }
-  <figcaption>ContextMenuManager 界面</figcaption>
+  <figcaption>ContextMenuManager</figcaption>
 </figure>
 
 [Download :fontawesome-solid-download:{ .heart }](https://github.com/BluePointLilac/ContextMenuManager/releases)
+
+### GameFirst VI
+
+!!!info "简介"
+      GameFirst VI 是一款集成网络工具，专为华硕 ROG 产品的网络优化而设计。它能有效减少网络延迟，将游戏中的延迟降至最低，还能为玩家创造最佳的网络环境。
+
+<figure markdown>
+  ![GameFirst VI](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/GameFirst_VI.jpg?raw=true){ loading=lazy height="320px" width="473px" }
+  <figcaption>GameFirst VI</figcaption>
+</figure>
+
+[Download :fontawesome-solid-download:{ .heart }](https://www.asus.com.cn/support/Download-Center/)
 
 
 ## 编程开发
@@ -116,7 +128,7 @@ tags:
 
 <figure markdown>
   ![Visual Studio Code](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/Visual_Studio_Code.jpg?raw=true){ loading=lazy height="320px" width="473px" }
-  <figcaption>Visual Studio Code 界面</figcaption>
+  <figcaption>Visual Studio Code</figcaption>
 </figure>
 
 [Download :fontawesome-solid-download:{ .heart }](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64)
@@ -128,7 +140,7 @@ tags:
 
 <figure markdown>
   ![VirtualBox](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/VirtualBox.jpg?raw=true){ loading=lazy height="320px" width="473px" }
-  <figcaption>VirtualBox 界面</figcaption>
+  <figcaption>VirtualBox</figcaption>
 </figure>
 
 [Download :fontawesome-solid-download:{ .heart }](https://download.virtualbox.org/virtualbox/7.0.12/VirtualBox-7.0.12-159484-Win.exe)
@@ -140,11 +152,44 @@ tags:
 
 <figure markdown>
   ![Oh My Posh](https://ohmyposh.dev/assets/images/M365Princess-fac80713ca8cf93c26a81429e9ca4fdd.png){ loading=lazy height="120px" width="500px" }
-  <figcaption>Oh My Posh 界面</figcaption>
+  <figcaption>Oh My Posh</figcaption>
 </figure>
 
 [Download :fontawesome-solid-download:{ .heart }](https://github.com/JanDeDobbeleer/oh-my-posh/releases)
 
+### TortoiseGit
+
+!!!info "简介"
+      TortoiseGit 是一款提供了显示文件状态的覆盖图标、Git 上下文菜单等功能的强大工具
+
+<figure markdown>
+  ![TortoiseGit](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/TortoiseGit.jpg?raw=true){ loading=lazy height="320px" width="473px" }
+  <figcaption>TortoiseGit</figcaption>
+</figure>
+
+[Download :fontawesome-solid-download:{ .heart }](https://download.tortoisegit.org/tgit/2.15.0.0/TortoiseGit-2.15.0.0-64bit.msi)
+
+### Wireshark
+
+!!!info "简介"
+      Wireshark 是一款开源的网络数据包分析器，可实时从网络接口捕获数据包中的数据。它尽可能详细地显示捕获的数据以供用户检查它们的内容，并支持多协议的网络数据包解析。
+<figure markdown>
+  ![Wireshark](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/Wireshark.jpg?raw=true){ loading=lazy height="320px" width="473px" }
+  <figcaption>Wireshark</figcaption>
+</figure>
+
+[Download :fontawesome-solid-download:{ .heart }](https://2.na.dl.wireshark.org/win64/WiresharkPortable64_4.2.0.paf.exe)
+
+### RedPandaIDE
+
+!!!info "简介"
+      RedPandaIDE 是一款快速、轻量级、开源、跨平台的 C/C++/GNU 汇编的集成开发环境。
+<figure markdown>
+  ![RedPandaIDE](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/RedPandaIDE.jpg?raw=true){ loading=lazy height="320px" width="473px" }
+  <figcaption>RedPandaIDE</figcaption>
+</figure>
+
+[Download :fontawesome-solid-download:{ .heart }](https://github.com/royqh1979/RedPanda-CPP/releases)
 
 ## 效率生产
 
@@ -155,7 +200,7 @@ tags:
 
 <figure markdown>
   ![Bandizip](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/Bandizip.jpg?raw=true){ loading=lazy height="320px" width="473px" }
-  <figcaption>Bandizip 界面</figcaption>
+  <figcaption>Bandizip</figcaption>
 </figure>
 
 [Download :fontawesome-solid-download:{ .heart }](https://www.423down.com/9735.html)
@@ -167,7 +212,7 @@ tags:
 
 <figure markdown>
   ![TexStudio](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/TexStudio.jpg?raw=true){ loading=lazy height="320px" width="473px" }
-  <figcaption>TexStudio 界面</figcaption>
+  <figcaption>TexStudio</figcaption>
 </figure>
 
 [Download :fontawesome-solid-download:{ .heart }](https://sourceforge.net/projects/texstudio/files/latest/download)
@@ -179,7 +224,7 @@ tags:
 
 <figure markdown>
   ![MarkText](https://github.com/marktext/marktext/blob/develop/docs/marktext.png?raw=true){ loading=lazy height="300px" width="400px" }
-  <figcaption>MarkText 界面</figcaption>
+  <figcaption>MarkText</figcaption>
 </figure>
 
 [Download :fontawesome-solid-download:{ .heart }](https://github.com/marktext/marktext/releases/latest/download/marktext-setup.exe)
@@ -191,7 +236,7 @@ tags:
 
 <figure markdown>
   ![LocalSend](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/LocalSend.jpg?raw=true){ loading=lazy height="320px" width="473px" }
-  <figcaption>LocalSend 界面</figcaption>
+  <figcaption>LocalSend</figcaption>
 </figure>
 
 [Download :fontawesome-solid-download:{ .heart }](https://github.com/localsend/localsend/releases)
@@ -203,7 +248,7 @@ tags:
 
 <figure markdown>
   ![Calibre](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/Calibre.jpg?raw=true){ loading=lazy height="320px" width=473px" }
-  <figcaption>Calibre 界面</figcaption>
+  <figcaption>Calibre</figcaption>
 </figure>
 
 [Download :fontawesome-solid-download:{ .heart }](https://github.com/kovidgoyal/calibre/releases)
@@ -215,7 +260,7 @@ tags:
 
 <figure markdown>
   ![Ditto](https://img.lovestu.com/uploads/2019/12/20191222121641.jpg){ loading=lazy height="320px" width=320px" }
-  <figcaption>Ditto 界面</figcaption>
+  <figcaption>Ditto</figcaption>
 </figure>
 
 [Download :fontawesome-solid-download:{ .heart }](https://github.com/sabrogden/Ditto/releases)
@@ -227,7 +272,7 @@ tags:
 
 <figure markdown>
   ![PasteEx](https://raw.githubusercontent.com/huiyadanli/PasteEx/master/Screenshot/Screenshot_win11_en.png){ loading=lazy height="300px" width=360px" }
-  <figcaption>PasteEx 界面</figcaption>
+  <figcaption>PasteEx</figcaption>
 </figure>
 
 [Download :fontawesome-solid-download:{ .heart }](https://github.com/huiyadanli/PasteEx/releases)
@@ -239,7 +284,7 @@ tags:
 
 <figure markdown>
   ![Free Download Manager](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/Free_Download_Manager.jpg?raw=true){ loading=lazy height="320px" width=473px" }
-  <figcaption>Free Download Manager 界面</figcaption>
+  <figcaption>Free Download Manager</figcaption>
 </figure>
 
 [Download :fontawesome-solid-download:{ .heart }](https://files2.freedownloadmanager.org/6/latest/fdm_x64_setup.exe)
@@ -251,7 +296,7 @@ tags:
 
 <figure markdown>
   ![Everything](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/Everything.jpg?raw=true){ loading=lazy height="320px" width=473px" }
-  <figcaption>Everything 界面</figcaption>
+  <figcaption>Everything</figcaption>
 </figure>
 
 [Download :fontawesome-solid-download:{ .heart }](https://www.voidtools.com/Everything-1.4.1.1024.x86-Setup.exe)
@@ -263,7 +308,7 @@ tags:
 
 <figure markdown>
   ![Snipaste](https://i.v2ex.co/71Ftp04b.png){ loading=lazy height="300px" width=400px" }
-  <figcaption>Snipaste 界面</figcaption>
+  <figcaption>Snipaste</figcaption>
 </figure>
 
 [Download :fontawesome-solid-download:{ .heart }](https://dl.snipaste.com/win-x64-beta)
@@ -275,7 +320,7 @@ tags:
 
 <figure markdown>
   ![Daum PotPlayer](https://www.423down.com/wp-content/uploads/2021/10/2021100604525484.png){ loading=lazy height="300px" width=400px" }
-  <figcaption>Daum PotPlayer 界面</figcaption>
+  <figcaption>Daum PotPlayer</figcaption>
 </figure>
 
 [Download :fontawesome-solid-download:{ .heart }](https://www.423down.com/3050.html)
@@ -289,7 +334,7 @@ tags:
 
 <figure markdown>
   ![TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor/raw/master/Screenshots/taskbar_item_settings.png){ loading=lazy height="250px" width="350px" }
-  <figcaption>TrafficMonitor 界面</figcaption>
+  <figcaption>TrafficMonitor</figcaption>
 </figure>
 
 [Download :fontawesome-solid-download:{ .heart }](https://github.com/zhongyang219/TrafficMonitor/releases)
@@ -301,7 +346,7 @@ tags:
 
 <figure markdown>
   ![Dopamine](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/Dopamine.jpg?raw=true){ loading=lazy height="320px" width="473px" }
-  <figcaption>Dopamine 界面</figcaption>
+  <figcaption>Dopamine</figcaption>
 </figure>
 
 [Download :fontawesome-solid-download:{ .heart }](https://github.com/digimezzo/dopamine/releases)
@@ -313,7 +358,7 @@ tags:
 
 <figure markdown>
   ![ClickShow](https://user-images.githubusercontent.com/1972649/129450207-45174d8b-89ad-489c-876b-a2bc657e5417.png){ loading=lazy height="350px" width="350px" }
-  <figcaption>ClickShow 界面</figcaption>
+  <figcaption>ClickShow</figcaption>
 </figure>
 
 [Download :fontawesome-solid-download:{ .heart }](https://github.com/cuiliang/ClickShow/releases)
@@ -325,7 +370,7 @@ tags:
 
 <figure markdown>
   ![TranslucentTB](https://camo.githubusercontent.com/8e279385e0738bdaa8aaf6efd598af81a3a76728d89157aba64ba8ba1b41bd92/68747470733a2f2f692e696d6775722e636f6d2f516247374b51412e706e67){ loading=lazy height="300px" width="300px" }
-  <figcaption>TranslucentTB 界面</figcaption>
+  <figcaption>TranslucentTB</figcaption>
 </figure>
 
 [Download :fontawesome-solid-download:{ .heart }](https://github.com/TranslucentTB/TranslucentTB/releases)
@@ -338,7 +383,7 @@ tags:
 
 <figure markdown>
   ![No!!MeiryoUI](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/No_MeiryoUI.jpg?raw=true){ loading=lazy height="320px" width="473px" }
-  <figcaption>No!!MeiryoUI 界面</figcaption>
+  <figcaption>No!!MeiryoUI</figcaption>
 </figure>
 
 [Download :fontawesome-solid-download:{ .heart }](https://github.com/Tatsu-syo/noMeiryoUI/releases)

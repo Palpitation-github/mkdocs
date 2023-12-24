@@ -183,3 +183,14 @@ tags:
 
 [Jump to :fontawesome-solid-leaf:{ .heart }](https://scrape.center/)
 
+### Linux Command
+
+!!!note "简介"
+      Linux Command 是一款 Linux 命令的搜索工具，内容包含Linux命令手册、详解、学习、搜集。
+
+<figure markdown>
+  ![Linux Command](https://github.com/Palpitation-github/images/blob/main/Collections/Website/Linux_Command.png?raw=true){ loading=lazy height="320px" width="473px" }
+  <figcaption>Linux Command</figcaption>
+</figure>
+
+[Jump to :fontawesome-solid-leaf:{ .heart }](https://wangchujiang.com/linux-command/)
