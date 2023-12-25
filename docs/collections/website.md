@@ -121,6 +121,18 @@ tags:
 
 [Jump to :fontawesome-solid-leaf:{ .heart }](https://www.mygraphpaper.com/)
 
+### Reurl.cc
+
+!!!note "简介"
+      Reurl.cc 是一个免注册的短链接在线生成网站。如本站短链为 [https://reurl.cc/g4mjDV](https://reurl.cc/g4mjDV)
+
+<figure markdown>
+  ![Reurl.cc](https://github.com/Palpitation-github/images/blob/main/Collections/Website/Reurl.png?raw=true){ loading=lazy height="320px" width="473px" }
+  <figcaption>Reurl.cc</figcaption>
+</figure>
+
+[Jump to :fontawesome-solid-leaf:{ .heart }](https://reurl.cc/)
+
 ## 文档相关
 
 ### Wikipedia
@@ -171,6 +183,44 @@ tags:
 
 [Jump to :fontawesome-solid-leaf:{ .heart }](https://www.wolframalpha.com/)
 
+### Linux Command
+
+!!!note "简介"
+      Linux Command 是一款 Linux 命令的搜索工具，内容包含Linux命令手册、详解、学习、搜集。
+
+<figure markdown>
+  ![Linux Command](https://github.com/Palpitation-github/images/blob/main/Collections/Website/Linux_Command.png?raw=true){ loading=lazy height="320px" width="473px" }
+  <figcaption>Linux Command</figcaption>
+</figure>
+
+[Jump to :fontawesome-solid-leaf:{ .heart }](https://wangchujiang.com/linux-command/)
+
+### Gitmoji
+
+!!!note "简介"
+      Gitmoji 是一份 git 提交信息的 emoji 指南。
+
+<figure markdown>
+  ![Gitmoji](https://github.com/Palpitation-github/images/raw/main/Collections/Website/Gitmoji.png){ loading=lazy height="320px" width="473px" }
+  <figcaption>Gitmoji</figcaption>
+</figure>
+
+[Jump to :fontawesome-solid-leaf:{ .heart }](https://gitmoji.dev/)
+
+### Minecraft Wiki
+
+!!!note "简介"
+      Minecraft Wiki 是一份 Minecraft（我的世界）游戏的百科全书。
+
+<figure markdown>
+  ![Minecraft Wiki](https://github.com/Palpitation-github/images/raw/main/Collections/Website/Minecraft_Wiki.png){ loading=lazy height="320px" width="473px" }
+  <figcaption>Minecraft Wiki</figcaption>
+</figure>
+
+[Jump to :fontawesome-solid-leaf:{ .heart }](https://zh.minecraft.wiki/)
+
+## 编程测试
+
 ### Scrape Center
 
 !!!note "简介"
@@ -183,14 +233,28 @@ tags:
 
 [Jump to :fontawesome-solid-leaf:{ .heart }](https://scrape.center/)
 
-### Linux Command
+## 有趣的网站
+
+### 神奇海螺
 
 !!!note "简介"
-      Linux Command 是一款 Linux 命令的搜索工具，内容包含Linux命令手册、详解、学习、搜集。
+      神奇海螺是一个包含各种有趣特效的小工具合集，如中国制霸、动画巡礼、Sakana!石蒜模拟器等。
 
 <figure markdown>
-  ![Linux Command](https://github.com/Palpitation-github/images/blob/main/Collections/Website/Linux_Command.png?raw=true){ loading=lazy height="320px" width="473px" }
-  <figcaption>Linux Command</figcaption>
+  ![神奇海螺](https://github.com/Palpitation-github/images/blob/main/Collections/Website/Magiconch.png?raw=true){ loading=lazy height="320px" width="473px" }
+  <figcaption>神奇海螺</figcaption>
 </figure>
 
-[Jump to :fontawesome-solid-leaf:{ .heart }](https://wangchujiang.com/linux-command/)
+[Jump to :fontawesome-solid-leaf:{ .heart }](https://magiconch.com/)
+
+### The evolution of Trust
+
+!!!note "简介"
+      The evolution of Trust（信任的进化）是一款关于合作与欺骗的信任游戏，基本规则是你面前有一台机器：当你放进去一枚硬币，对方会得到三枚硬币，反之亦然。你们两个人都可以选择「合作」，放一枚硬币，或者「欺骗」，不放硬币。
+
+<figure markdown>
+  ![The evolution of Trust](https://github.com/Palpitation-github/images/raw/main/Collections/Website/The_Evolution_of_Trust.png){ loading=lazy height="300px" width="400px" }
+  <figcaption>The evolution of Trust</figcaption>
+</figure>
+
+[Jump to :fontawesome-solid-leaf:{ .heart }](https://dccxi.com/trust/)

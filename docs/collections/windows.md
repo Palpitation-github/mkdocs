@@ -15,7 +15,7 @@ tags:
       Fido 是一个 PowerShell 脚本，主要设计用于 Rufus，但也能以独立方式使用，其目的是自动访问官方 Microsoft Windows 零售 ISO 的下载链接，并提供对可启动 UEFI Shell 映像的便捷访问。
 
 <figure markdown>
-  ![Fido](https://maxiaobang.com/wp-content/uploads/2021/08/20210809142548238.jpg?x-oss-process=image/format,webp){ loading=lazy height="200px" width="400px" }
+  ![Fido](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/Fido.jpg?raw=true){ loading=lazy height="320px" width="473px" }
   <figcaption>Fido</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ tags:
       VisualCppRedist AIO 一款用于最新 Microsoft Visual C++ Redistributable 运行时的 AIO 重新打包工具。
 
 <figure markdown>
-  ![VisualCppRedist AIO](https://www.osssr.com/wp-content/uploads/2022/01/VisualCppRedist_1.png?x33195){ loading=lazy height="350px" width="350px" }
+  ![VisualCppRedist AIO](https://www.osssr.com/wp-content/uploads/2022/01/VisualCppRedist_1.png?x33195){ loading=lazy height="320px" width="320px" }
   <figcaption>VisualCppRedist AIO</figcaption>
 </figure>
 
@@ -118,6 +118,53 @@ tags:
 
 [Download :fontawesome-solid-download:{ .heart }](https://www.asus.com.cn/support/Download-Center/)
 
+### 火绒安全
+
+!!!info "简介"
+      火绒安全是一款 Windows 操作系统下的个人电脑安全软件。主要功能有清除恶意软件、扫描电脑病毒、修补系统漏洞、清理系统垃圾、安全防护功能、自定义规则等。
+
+<figure markdown>
+  ![火绒安全](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/HuoRong.jpg?raw=true){ loading=lazy height="320px" width="473px" }
+  <figcaption>火绒安全</figcaption>
+</figure>
+
+[Download :fontawesome-solid-download:{ .heart }](https://www.huorong.cn/downloadfullv5.html)
+
+### GeForce Experience
+
+!!!info "简介"
+      GeForce Experience 是一款专为游戏玩家设计的软件，它可以帮助 Nvidia 显卡用户快速升级驱动、优化游戏设置、截取游戏画面。在出货搭载 Nvidia 显卡的机台中，该软件随显卡驱动一并安装。
+
+<figure markdown>
+  ![GeForce Experience](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/GeForce%20Experience.jpg?raw=true){ loading=lazy height="320px" width="473px" }
+  <figcaption>GeForce Experience</figcaption>
+</figure>
+
+[Download :fontawesome-solid-download:{ .heart }](https://cn.download.nvidia.com/GFE/GFEClient/3.27.0.120/GeForce_Experience_v3.27.0.120.exe)
+
+### 傲梅分区助手
+
+!!!info "简介"
+      傲梅分区助手是一款简单易用的无损分区软件，它支持无损调整分区大小，还支持快速分区，迁移系统到固态磁盘，扩容系统，克隆硬盘，无损合并与拆分分区等功能。
+
+<figure markdown>
+  ![傲梅分区助手](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/AOMEI_Partition_Assistant.jpg?raw=true){ loading=lazy height="320px" width="473px" }
+  <figcaption>傲梅分区助手</figcaption>
+</figure>
+
+[Download :fontawesome-solid-download:{ .heart }](https://www2.aomeisoftware.com/download/pacn/NPAInstall.zip)
+
+### DiskGenius
+
+!!!info "简介"
+      DiskGenius 是一款功能全面，安全可靠的硬盘分区工具。它支持创建分区、删除分区、格式化分区、隐藏分区、分配盘符等基本功能，还提供快速分区、无损调整分区大小，分区表备份恢复等更多高阶功能。
+
+<figure markdown>
+  ![DiskGenius](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/DiskGenius.jpg?raw=true){ loading=lazy height="320px" width="473px" }
+  <figcaption>DiskGenius</figcaption>
+</figure>
+
+[Download :fontawesome-solid-download:{ .heart }](https://eassos.lanzoub.com/icbY61gvmeje)
 
 ## 编程开发
 
@@ -191,6 +238,39 @@ tags:
 
 [Download :fontawesome-solid-download:{ .heart }](https://github.com/royqh1979/RedPanda-CPP/releases)
 
+### Hoppscotch
+
+!!!info "简介"
+      Hoppscotch 是一款轻量级的 API 开发套件。它通过简约且不显眼的 UI 为开发人员提供所需的所有功能。它还支持 PWA 技术，可以方便地安装到本地。
+<figure markdown>
+  ![Hoppscotch](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/Hoppscotch.jpg?raw=true){ loading=lazy height="320px" width="473px" }
+  <figcaption>Hoppscotch</figcaption>
+</figure>
+
+[Download :fontawesome-solid-download:{ .heart }](https://hoppscotch.io/)
+
+### Terminal
+
+!!!info "简介"
+      Terminal（Windows 终端）是一个新式主机应用程序，它面向用户喜爱的命令行 shell，如命令提示符、PowerShell 和 bash（通过适用于Linux 的 Windows 子系统）。
+<figure markdown>
+  ![Terminal](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/Terminal.jpg?raw=true){ loading=lazy height="320px" width="473px" }
+  <figcaption>Terminal</figcaption>
+</figure>
+
+[Download :fontawesome-solid-download:{ .heart }](https://github.com/microsoft/terminal/releases)
+
+### PowerShell
+
+!!!info "简介"
+      PowerShell 是一个跨平台（Windows、Linux 和 macOS）自动化和配置工具/框架，可与现有工具配合使用并经过优化用于处理结构化数据（例如 JSON、CSV、XML 等）、REST API 和对象模型。它包括命令行 shell、关联的脚本语言和用于处理 cmdlet 的框架。
+<figure markdown>
+  ![PowerShell](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/PowerShell.jpg?raw=true){ loading=lazy height="320px" width="473px" }
+  <figcaption>PowerShell</figcaption>
+</figure>
+
+[Download :fontawesome-solid-download:{ .heart }](https://github.com/PowerShell/PowerShell/releases)
+
 ## 效率生产
 
 ### Bandizip
@@ -223,7 +303,7 @@ tags:
       MarkText 是一个简单优雅且专注于速度和可用性的 Markdown 编辑器，支持所见即所得和自定义主题等功能。
 
 <figure markdown>
-  ![MarkText](https://github.com/marktext/marktext/blob/develop/docs/marktext.png?raw=true){ loading=lazy height="300px" width="400px" }
+  ![MarkText](https://github.com/marktext/marktext/blob/develop/docs/marktext.png?raw=true){ loading=lazy height="320px" width="473px" }
   <figcaption>MarkText</figcaption>
 </figure>
 
@@ -271,7 +351,7 @@ tags:
       PasteEx 是一款可将剪贴板的内容粘贴到文件中的软件。它支持自定义文本扩展规则、自动识别图片文件扩展名以及更快、更方便的监控模式等功能。
 
 <figure markdown>
-  ![PasteEx](https://raw.githubusercontent.com/huiyadanli/PasteEx/master/Screenshot/Screenshot_win11_en.png){ loading=lazy height="300px" width=360px" }
+  ![PasteEx](https://raw.githubusercontent.com/huiyadanli/PasteEx/master/Screenshot/Screenshot_win11_en.png){ loading=lazy height="320px" width=473px" }
   <figcaption>PasteEx</figcaption>
 </figure>
 
@@ -307,7 +387,7 @@ tags:
       Snipaste 是一款简单但功能强大的截图工具，它允许将屏幕截图固定回屏幕上，还可将剪贴板中的文本或颜色信息转换为浮动图像窗口。
 
 <figure markdown>
-  ![Snipaste](https://i.v2ex.co/71Ftp04b.png){ loading=lazy height="300px" width=400px" }
+  ![Snipaste](https://i.v2ex.co/71Ftp04b.png){ loading=lazy height="320px" width=473px" }
   <figcaption>Snipaste</figcaption>
 </figure>
 
@@ -319,11 +399,71 @@ tags:
       Daum PotPlayer 是一款全能多媒体影音播放器。它内置强大的编码器及滤镜/分离器，支持自定义添加解码器，对字幕的支持非常优秀，能兼容特效字幕及在线搜索字幕实时翻译。
 
 <figure markdown>
-  ![Daum PotPlayer](https://www.423down.com/wp-content/uploads/2021/10/2021100604525484.png){ loading=lazy height="300px" width=400px" }
+  ![Daum PotPlayer](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/PotPlayer.jpg?raw=true){ loading=lazy height="320px" width=473px" }
   <figcaption>Daum PotPlayer</figcaption>
 </figure>
 
 [Download :fontawesome-solid-download:{ .heart }](https://www.423down.com/3050.html)
+
+### Draw.io
+
+!!!info "简介"
+      Draw.io 是一款全能多媒体影音播放器。它内置强大的编码器及滤镜/分离器，支持自定义添加解码器，对字幕的支持非常优秀，能兼容特效字幕及在线搜索字幕实时翻译。
+
+<figure markdown>
+  ![Draw.io](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/Drawio.jpg?raw=true){ loading=lazy height="320px" width=473px" }
+  <figcaption>Draw.io</figcaption>
+</figure>
+
+[Download :fontawesome-solid-download:{ .heart }](https://github.com/jgraph/drawio-desktop/releases)
+
+### MKVToolNix
+
+!!!info "简介"
+      MKVToolNix 是一组用于创建、更改和检查 Matroska 文件的工具，支持 Linux、其他 Unices 和 Windows。
+
+<figure markdown>
+  ![MKVToolNix](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/MKVToolNix.jpg?raw=true){ loading=lazy height="320px" width=473px" }
+  <figcaption>MKVToolNix</figcaption>
+</figure>
+
+[Download :fontawesome-solid-download:{ .heart }](https://mkvtoolnix.download/windows/releases/81.0/mkvtoolnix-64-bit-81.0.7z)
+
+### XMind
+
+!!!info "简介"
+      XMind 是一款全功能的思维导图和头脑风暴软件，支持丰富的主题和脑图类型。
+
+<figure markdown>
+  ![XMind](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/XMind.jpg?raw=true){ loading=lazy height="320px" width=473px" }
+  <figcaption>XMind</figcaption>
+</figure>
+
+[Download :fontawesome-solid-download:{ .heart }](https://xmind.cn/zen/download/win64/)
+
+### OBS Studio
+
+!!!info "简介"
+      OBS Studio（Open Broadcaster Software）是一款用于直播和屏幕录制的免费开源软件。
+
+<figure markdown>
+  ![OBS Studio](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/OBS_Studio.jpg?raw=true){ loading=lazy height="320px" width=473px" }
+  <figcaption>OBS Studio</figcaption>
+</figure>
+
+[Download :fontawesome-solid-download:{ .heart }](https://github.com/obsproject/obs-studio/releases)
+
+### Hitomi Downloader
+
+!!!info "简介"
+      Hitomi Downloader 是一款用于从各种网站下载图像、视频、音乐、文本等文件形式的实用程序。
+
+<figure markdown>
+  ![Hitomi Downloader](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/Hitomi_Downloader.jpg?raw=true){ loading=lazy height="320px" width=473px" }
+  <figcaption>Hitomi Downloader</figcaption>
+</figure>
+
+[Download :fontawesome-solid-download:{ .heart }](https://github.com/KurtBestor/Hitomi-Downloader/releases)
 
 ## 美化设计
 
@@ -338,18 +478,6 @@ tags:
 </figure>
 
 [Download :fontawesome-solid-download:{ .heart }](https://github.com/zhongyang219/TrafficMonitor/releases)
-
-### Dopamine
-
-!!!info "简介"
-      Dopamine 是一款优雅的音频播放器，它试图让组织和听音乐尽可能简单和漂亮。
-
-<figure markdown>
-  ![Dopamine](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/Dopamine.jpg?raw=true){ loading=lazy height="320px" width="473px" }
-  <figcaption>Dopamine</figcaption>
-</figure>
-
-[Download :fontawesome-solid-download:{ .heart }](https://github.com/digimezzo/dopamine/releases)
 
 ### ClickShow
 
@@ -387,3 +515,29 @@ tags:
 </figure>
 
 [Download :fontawesome-solid-download:{ .heart }](https://github.com/Tatsu-syo/noMeiryoUI/releases)
+
+## 生活娱乐
+
+### Dopamine
+
+!!!info "简介"
+      Dopamine 是一款优雅的音频播放器，它试图让组织和听音乐尽可能简单和漂亮。
+
+<figure markdown>
+  ![Dopamine](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/Dopamine.jpg?raw=true){ loading=lazy height="320px" width="473px" }
+  <figcaption>Dopamine</figcaption>
+</figure>
+
+[Download :fontawesome-solid-download:{ .heart }](https://github.com/digimezzo/dopamine/releases)
+
+### SAO.FM
+
+!!!info "简介"
+      SAO.FM 是一款轻量型音频及电台收听平台，内容包括全球主流电台流媒体以及各种风格流派的音乐电台播放收听服务，可以安装 PWA 版本到本地。
+
+<figure markdown>
+  ![SAO.FM](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/Dopamine.jpg?raw=true){ loading=lazy height="320px" width="473px" }
+  <figcaption>SAO.FM</figcaption>
+</figure>
+
+[Download :fontawesome-solid-download:{ .heart }](https://sao.fm/)
