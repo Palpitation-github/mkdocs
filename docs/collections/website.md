@@ -91,7 +91,7 @@ tags:
       Excalidraw 是一款开源的虚拟手绘风格的白板工具，支持协作和端到端加密。
 
 <figure markdown>
-  ![Excalidraw](https://github.com/Palpitation-github/images/blob/main/Collections/Website/Excalidraw.png?raw=true){ loading=lazy height="260px" width="456px" }
+  ![Excalidraw](https://github.com/Palpitation-github/images/blob/main/Collections/Website/Excalidraw.png?raw=true){ loading=lazy height="280px" width="413px" }
   <figcaption>Excalidraw</figcaption>
 </figure>
 
@@ -201,7 +201,7 @@ tags:
       Gitmoji 是一份 git 提交信息的 emoji 指南。
 
 <figure markdown>
-  ![Gitmoji](https://github.com/Palpitation-github/images/raw/main/Collections/Website/Gitmoji.png){ loading=lazy height="320px" width="473px" }
+  ![Gitmoji](https://github.com/Palpitation-github/images/blob/main/Collections/Website/Gitmoji.png?raw=true){ loading=lazy height="320px" width="473px" }
   <figcaption>Gitmoji</figcaption>
 </figure>
 
@@ -213,7 +213,7 @@ tags:
       Minecraft Wiki 是一份 Minecraft（我的世界）游戏的百科全书。
 
 <figure markdown>
-  ![Minecraft Wiki](https://github.com/Palpitation-github/images/raw/main/Collections/Website/Minecraft_Wiki.png){ loading=lazy height="320px" width="473px" }
+  ![Minecraft Wiki](https://github.com/Palpitation-github/images/blob/main/Collections/Website/Minecraft_Wiki.png?raw=true){ loading=lazy height="320px" width="473px" }
   <figcaption>Minecraft Wiki</figcaption>
 </figure>
 
@@ -253,8 +253,32 @@ tags:
       The evolution of Trust（信任的进化）是一款关于合作与欺骗的信任游戏，基本规则是你面前有一台机器：当你放进去一枚硬币，对方会得到三枚硬币，反之亦然。你们两个人都可以选择「合作」，放一枚硬币，或者「欺骗」，不放硬币。
 
 <figure markdown>
-  ![The evolution of Trust](https://github.com/Palpitation-github/images/raw/main/Collections/Website/The_Evolution_of_Trust.png){ loading=lazy height="300px" width="400px" }
+  ![The evolution of Trust](https://github.com/Palpitation-github/images/blob/main/Collections/Website/The_Evolution_of_Trust.png?raw=true){ loading=lazy height="280px" width="413px" }
   <figcaption>The evolution of Trust</figcaption>
 </figure>
 
 [Jump to :fontawesome-solid-leaf:{ .heart }](https://dccxi.com/trust/)
+
+### 汉兜
+
+!!!note "简介"
+      汉兜是一款猜字游戏，一共有十次机会来猜一个四字词语，每次猜测后，汉字与拼音的颜色将会标识与正确答案的区别。
+
+<figure markdown>
+  ![汉兜](https://github.com/Palpitation-github/images/blob/main/Collections/Website/Wordle.png?raw=true){ loading=lazy height="280px" width="413px" }
+  <figcaption>汉兜</figcaption>
+</figure>
+
+[Jump to :fontawesome-solid-leaf:{ .heart }](https://handle.antfu.me/)
+
+### 河南博物馆
+
+!!!info "简介"
+      河南博物馆位于河南省郑州市，是中国成立较早的博物馆之一。它是河南省乃至全国历史博物馆的典型代表。这是它的线上地址，网友可以在线上以数字展览的方式浏览博物馆内的文物。
+
+<figure markdown>
+  ![河南博物馆](https://github.com/Palpitation-github/images/blob/main/Collections/Website/Chnmus.png?raw=true){ loading=lazy height="320px" width="473px" }
+  <figcaption>河南博物馆</figcaption>
+</figure>
+
+[Download :fontawesome-solid-download:{ .heart }](https://www.chnmus.net/)

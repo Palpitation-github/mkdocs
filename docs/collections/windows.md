@@ -297,10 +297,22 @@ tags:
 
 [Download :fontawesome-solid-download:{ .heart }](https://sourceforge.net/projects/texstudio/files/latest/download)
 
+### Typora
+
+!!!info "简介"
+      Typora 是一款轻便简洁的 Markdown 编辑器，支持即时渲染技术。更支持包含 Latex 风格在内的各种自定义主题。三个主题参考：[typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme)、[typora-dyzj-theme](https://github.com/muggledy/typora-dyzj-theme)、[DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme)
+
+<figure markdown>
+  ![Typora](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/Typora.jpg?raw=true){ loading=lazy height="320px" width="473px" }
+  <figcaption>Typora</figcaption>
+</figure>
+
+[Download :fontawesome-solid-download:{ .heart }](https://www.ghxi.com/typora.html)
+
 ### MarkText
 
 !!!info "简介"
-      MarkText 是一个简单优雅且专注于速度和可用性的 Markdown 编辑器，支持所见即所得和自定义主题等功能。
+      MarkText 是一款简单优雅且专注于速度和可用性的 Markdown 编辑器，支持所见即所得和自定义主题等功能。
 
 <figure markdown>
   ![MarkText](https://github.com/marktext/marktext/blob/develop/docs/marktext.png?raw=true){ loading=lazy height="320px" width="473px" }
