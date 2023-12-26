@@ -198,7 +198,7 @@ tags:
       Oh My Posh 是一款终端 Prompt 个性化工具，它支持了 Windows、GNU/Linux（WSL）、macOS 三个系统上的 PowerShell、bash、zsh 等终端。
 
 <figure markdown>
-  ![Oh My Posh](https://ohmyposh.dev/assets/images/M365Princess-fac80713ca8cf93c26a81429e9ca4fdd.png){ loading=lazy height="120px" width="500px" }
+  ![Oh My Posh](https://ohmyposh.dev/assets/images/M365Princess-ad0caaa34b25d213d3d6326fd38f6e0e.png){ loading=lazy height="120px" width="500px" }
   <figcaption>Oh My Posh</figcaption>
 </figure>
 
@@ -351,7 +351,7 @@ tags:
       Ditto 是一款标准 Windows 剪贴板的扩展。它保存放置在剪贴板上的每个项目，允许您稍后访问其中任何一个项目。它允许保存可以放在剪贴板上的任何类型的信息、文本、图像、html以及自定义格式。
 
 <figure markdown>
-  ![Ditto](https://img.lovestu.com/uploads/2019/12/20191222121641.jpg){ loading=lazy height="320px" width=320px" }
+  ![Ditto](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/Ditto.jpg?raw=true){ loading=lazy height="320px" width=320px" }
   <figcaption>Ditto</figcaption>
 </figure>
 
@@ -363,7 +363,7 @@ tags:
       PasteEx 是一款可将剪贴板的内容粘贴到文件中的软件。它支持自定义文本扩展规则、自动识别图片文件扩展名以及更快、更方便的监控模式等功能。
 
 <figure markdown>
-  ![PasteEx](https://raw.githubusercontent.com/huiyadanli/PasteEx/master/Screenshot/Screenshot_win11_en.png){ loading=lazy height="320px" width=473px" }
+  ![PasteEx](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/PasteEx.jpg?raw=true){ loading=lazy height="320px" width=473px" }
   <figcaption>PasteEx</figcaption>
 </figure>
 
@@ -485,7 +485,7 @@ tags:
       Traffic Monitor 是一款用于 Windows 平台的网速监控悬浮窗软件，可以显示当前网速、CPU 及内存利用率，支持嵌入到任务栏显示，支持更换皮肤、历史流量统计等功能。
 
 <figure markdown>
-  ![TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor/raw/master/Screenshots/taskbar_item_settings.png){ loading=lazy height="250px" width="350px" }
+  ![TrafficMonitor](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/TrafficMonitor.jpg?raw=true){ loading=lazy height="320px" width="473px" }
   <figcaption>TrafficMonitor</figcaption>
 </figure>
 
@@ -497,7 +497,7 @@ tags:
       ClickShow 是一款用于提示鼠标点击、鼠标位置的软件。它可在鼠标点击时显示波纹特效、每个按键对应不同的颜色，还支持跟随鼠标的位置指示圆标和开机自启动等功能。
 
 <figure markdown>
-  ![ClickShow](https://user-images.githubusercontent.com/1972649/129450207-45174d8b-89ad-489c-876b-a2bc657e5417.png){ loading=lazy height="350px" width="350px" }
+  ![ClickShow](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/ClickShow.jpg?raw=true){ loading=lazy height="320px" width="473px" }
   <figcaption>ClickShow</figcaption>
 </figure>
 
@@ -509,7 +509,7 @@ tags:
       TranslucentTB 是一款轻量级的实用软件，可使 Windows 任务栏在 Windows 10 或 11 上半透明/透明。
 
 <figure markdown>
-  ![TranslucentTB](https://camo.githubusercontent.com/8e279385e0738bdaa8aaf6efd598af81a3a76728d89157aba64ba8ba1b41bd92/68747470733a2f2f692e696d6775722e636f6d2f516247374b51412e706e67){ loading=lazy height="300px" width="300px" }
+  ![TranslucentTB](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/TranslucentTB.jpg?raw=true){ loading=lazy height="160px" width="480px" }
   <figcaption>TranslucentTB</figcaption>
 </figure>
 
@@ -548,7 +548,7 @@ tags:
       SAO.FM 是一款轻量型音频及电台收听平台，内容包括全球主流电台流媒体以及各种风格流派的音乐电台播放收听服务，可以安装 PWA 版本到本地。
 
 <figure markdown>
-  ![SAO.FM](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/Dopamine.jpg?raw=true){ loading=lazy height="320px" width="473px" }
+  ![SAO.FM](https://github.com/Palpitation-github/images/blob/main/Collections/Windows/SAO_FM.jpg?raw=true){ loading=lazy height="320px" width="473px" }
   <figcaption>SAO.FM</figcaption>
 </figure>
 

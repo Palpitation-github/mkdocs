@@ -7,10 +7,11 @@ tags:
 
 # 网站-Website
 
+> 收集各种网站，网站的截图采用 [Screen.guru](#screenguru) 或 [Screely](#screely) 设计。
 
-## 资源
+## 资源 & 数据
 
-### Annas Archive🚀
+### Annas Archive
 
 !!!note "简介"
       Annas Archive（安娜的档案）是一个旨在通过汇总各种来源的数据，以对所有现有书籍进行分类的项目。
@@ -20,7 +21,7 @@ tags:
   <figcaption>Annas Archive</figcaption>
 </figure>
 
-[Jump to :fontawesome-solid-leaf:{ .heart }](https://zh.annas-archive.org/)
+🚀[Jump to :fontawesome-solid-leaf:{ .heart }](https://zh.annas-archive.org/)
 
 ### arXiv
 
@@ -33,7 +34,6 @@ tags:
 </figure>
 
 [Jump to :fontawesome-solid-leaf:{ .heart }](https://arxiv.org/)
-
 
 ### 小纸条
 
@@ -59,7 +59,7 @@ tags:
 
 [Jump to :fontawesome-solid-leaf:{ .heart }](https://subhd.tv/)
 
-## 生产力
+## 效率 & 设计
 
 ### Screen.guru
 
@@ -84,6 +84,30 @@ tags:
 </figure>
 
 [Jump to :fontawesome-solid-leaf:{ .heart }](https://screely.com/)
+
+### Screenzy
+
+!!!note "简介"
+      Screenzy 是一款在线美化截图的工具，支持粘贴图像或 URL、浏览图片或从 Unsplash 加载随机图像，有多种预设的方案。
+
+<figure markdown>
+  ![Screenzy](https://github.com/Palpitation-github/images/blob/main/Collections/Website/Screenzy.png?raw=true){ loading=lazy height="320px" width="473px" }
+  <figcaption>Screenzy</figcaption>
+</figure>
+
+[Jump to :fontawesome-solid-leaf:{ .heart }](https://screenzy.io/)
+
+### Device Shots
+
+!!!note "简介"
+      Device Shots 是一款在线使用屏幕截图来设计设备模型的工具，支持手机、平板、电脑等多种设备模型。
+
+<figure markdown>
+  ![Device Shots](https://github.com/Palpitation-github/images/blob/main/Collections/Website/Device_Shots.png?raw=true){ loading=lazy height="320px" width="473px" }
+  <figcaption>Device Shots</figcaption>
+</figure>
+
+[Jump to :fontawesome-solid-leaf:{ .heart }](https://deviceshots.com/app)
 
 ### Excalidraw
 
@@ -133,7 +157,7 @@ tags:
 
 [Jump to :fontawesome-solid-leaf:{ .heart }](https://reurl.cc/)
 
-## 文档相关
+## 文档 & 知识
 
 ### Wikipedia
 
@@ -219,7 +243,90 @@ tags:
 
 [Jump to :fontawesome-solid-leaf:{ .heart }](https://zh.minecraft.wiki/)
 
-## 编程测试
+## 编程 & 测试
+
+### MDN Web Docs
+
+!!!note "简介"
+      MDN Web Docs 是一份记录 Web 技术，包括 CSS、HTML 和 JavaScript 的百科全书。
+
+<figure markdown>
+  ![MDN Web Docs](https://github.com/Palpitation-github/images/blob/main/Collections/Website/MDN_Web_Docs.png?raw=true){ loading=lazy height="280px" width="413px" }
+  <figcaption>MDN Web Docs</figcaption>
+</figure>
+
+[Jump to :fontawesome-solid-leaf:{ .heart }](https://developer.mozilla.org/zh-CN/)
+
+### Cpp Reference
+
+!!!note "简介"
+      Cpp Reference 是 C++ 的参考手册，另外 Microsoft 还提供了 C/C++ 的[参考文档](https://learn.microsoft.com/zh-cn/cpp/)
+
+<figure markdown>
+  ![Cpp Reference](https://github.com/Palpitation-github/images/blob/main/Collections/Website/Cpp_Reference.png?raw=true){ loading=lazy height="320px" width="473px" }
+  <figcaption>Cpp Reference</figcaption>
+</figure>
+
+[Jump to :fontawesome-solid-leaf:{ .heart }](https://zh.cppreference.com/w/)
+
+### Java Tutorial
+
+!!!note "简介"
+      Java Tutorial 是一个在线的 Java 教程，包含 Java 相关的各个方面，其中采用丰富的思维导图形式逐渐讲解 Java 的知识点。同类型的网站还有 [JavaPark](https://cunyu1943.github.io/)
+
+<figure markdown>
+  ![Java Tutorial](https://github.com/Palpitation-github/images/blob/main/Collections/Website/Java_Tutorial.png?raw=true){ loading=lazy height="320px" width="473px" }
+  <figcaption>Java Tutorial</figcaption>
+</figure>
+
+[Jump to :fontawesome-solid-leaf:{ .heart }](https://dunwu.github.io/java-tutorial/)
+
+### Python Docs
+!!!note "简介"
+      这是一份 Python 3.11.7 的官方文档，包含模块索引和各种术语的解释等。
+
+<figure markdown>
+  ![Python 3.11 docs](https://github.com/Palpitation-github/images/blob/main/Collections/Website/Python_Docs.png?raw=true){ loading=lazy height="320px" width="473px" }
+  <figcaption>Python 3.11 docs</figcaption>
+</figure>
+
+[Jump to :fontawesome-solid-leaf:{ .heart }](https://docs.python.org/zh-cn/3.11/)
+
+### Go Docs
+
+!!!note "简介"
+      Go Docs 是 Go 语言的官方国在线文档，介绍了 Go 语言的各种特性，其中还包含一份交互性的教程。
+
+<figure markdown>
+  ![Go Docs](https://github.com/Palpitation-github/images/blob/main/Collections/Website/Go_Docs.png?raw=true){ loading=lazy height="320px" width="473px" }
+  <figcaption>Go Docs</figcaption>
+</figure>
+
+[Jump to :fontawesome-solid-leaf:{ .heart }](https://go.dev/doc/)
+
+### Learn Rust
+
+!!!note "简介"
+      Learn Rust 是 Rust 网站官方推荐的一些学习 Rust 的文档，内容丰富全面并且部分内容一直在更新中。
+
+<figure markdown>
+  ![Learn Rust](https://github.com/Palpitation-github/images/blob/main/Collections/Website/Learn_Rust.png?raw=true){ loading=lazy height="320px" width="473px" }
+  <figcaption>Learn Rust</figcaption>
+</figure>
+
+[Jump to :fontawesome-solid-leaf:{ .heart }](https://www.rust-lang.org/learn)
+
+### Markdown Docs
+
+!!!note "简介"
+      Markdown Docs 是一份 Markdown 的官方教程。Github 有一份自己的 Markdown 写作和语法格式，[Basic writing and formatting syntax-Github](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+<figure markdown>
+  ![Markdown Docs](https://github.com/Palpitation-github/images/blob/main/Collections/Website/Markdown_Docs.png?raw=true){ loading=lazy height="320px" width="473px" }
+  <figcaption>Markdown Docs</figcaption>
+</figure>
+
+[Jump to :fontawesome-solid-leaf:{ .heart }](https://markdown.com.cn/)
 
 ### Scrape Center
 
@@ -233,7 +340,7 @@ tags:
 
 [Jump to :fontawesome-solid-leaf:{ .heart }](https://scrape.center/)
 
-## 有趣的网站
+## 趣味 & 娱乐
 
 ### 神奇海螺
 

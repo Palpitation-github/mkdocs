@@ -54,6 +54,7 @@ theme:
       rs: material/language-rust
       tex: material/pen
       apk: material/android
+      ipa: material/apple
       win: fontawesome/brands/windows
       web: material/web
     # menu:
@@ -194,6 +195,7 @@ extra:
     Rust: rs
     Latex: tex
     Android: apk
+    iOS: ipa
     Windows: win
     Website: web
 # 额外css
@@ -221,7 +223,8 @@ nav:
     - collections/index.md
     - 1. 🪟 软件 on Windows: collections/windows.md
     - 2. 🤖 应用 on Android: collections/android.md
-    - 3. 🔎 网站 on Website: collections/website.md
+    - 3. 🍎 应用 on iOS: collections/ios.md
+    - 4. 🔎 网站 on Website: collections/website.md
   - ✒️ Latex:
     - latex/index.md
     - 1. 📈 绘图 PGF Plots: latex/pgfplots.md
